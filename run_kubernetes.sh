@@ -18,3 +18,6 @@ kubectl get pods
 # Step 4:
 # Forward the container port to a host
 kubectl port-forward deployment/valdisudemy 8000:80
+
+# Get logs
+kubectl logs `kubectl get pods -o=name`
