@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/vjomants32/ML-Microservice.svg?style=svg)](https://circleci.com/gh/vjomants32/ML-Microservice)
 
-
+## Operationalize a Machine Learning Microservice API
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
